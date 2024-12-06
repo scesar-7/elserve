@@ -1,534 +1,59 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733477066168 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733478847399 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477069233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478850462 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477072292 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478853531 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477075344 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478856612 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477078398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478859676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477081453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478862743 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477084514 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478865804 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477087595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478868865 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477090648 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478871940 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477093701 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478875005 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477096757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478878076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477099823 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477102889 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477105940 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477109003 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477112062 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477115130 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477118182 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477121246 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477124303 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477127369 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477130423 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477133484 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477136551 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477139603 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477142656 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477145712 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477148771 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477151827 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477154896 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477157955 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477161014 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477164069 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477167125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477170188 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477173251 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477176314 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477179376 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477182439 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477185511 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477188582 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477191641 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477194703 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477197767 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477200823 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477203878 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477206941 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477210002 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477213061 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477216113 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477219167 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477222221 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477225273 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477228327 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477231383 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477234456 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477237512 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477240572 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477243629 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477246694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477249751 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477252809 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477255870 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477258929 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477261986 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477265108 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477268173 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477271234 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477274294 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477277354 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477280411 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477283471 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477286538 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477289613 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477292674 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477295733 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477298787 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477301843 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477304901 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477307953 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477311029 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477314082 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477317135 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477320191 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477323244 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477326309 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477329368 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477332423 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477335479 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477338535 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477341610 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477344669 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477347751 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477350852 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477353966 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477357030 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477360098 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477363165 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477366227 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477369290 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477372365 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477375432 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477378491 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477381676 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477384734 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477387799 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-starting-handhelds.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1733477390862 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1733478881135 tunnel running, 1 tunnels registered
 
 
 TUNNELS
