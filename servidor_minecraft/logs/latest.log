@@ -1,2 +1,140 @@
-[21:16:33] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:16:33] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[21:17:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:17:07] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[21:17:09] [ServerMain/INFO]: Loaded 7 recipes
+[21:17:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:17:10] [Server thread/INFO]: Loading properties
+[21:17:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[21:17:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:17:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:17:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[21:17:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:17:12] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:12] [Server thread/INFO]: Generating keypair
+[21:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:13] [Server thread/INFO]: Using epoll channel type
+[21:17:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:17:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:17:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:17:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:17:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:17:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:17:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:17:13] [Server thread/INFO]: Preparing level "world"
+[21:17:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:17:28] [Server thread/INFO]: Time elapsed: 250 ms
+[21:17:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:17:28] [Server thread/INFO]: Time elapsed: 297 ms
+[21:17:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:17:28] [Server thread/INFO]: Time elapsed: 126 ms
+[21:17:28] [Server thread/INFO]: Running delayed init tasks
+[21:17:28] [Server thread/INFO]: Done (18.051s)! For help, type "help"
+[21:17:28] [Server thread/INFO]: Timings Reset
+[21:17:34] [Server thread/INFO]: [Not Secure] [Server] h
+[21:17:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:18:49] [User Authenticator #0/INFO]: UUID of player amarilliin10 is 2dbccb62-2efc-37d5-8468-37f768e8f0f8
+[21:18:49] [Server thread/INFO]: amarilliin10 joined the game
+[21:18:49] [Server thread/INFO]: amarilliin10[/127.194.136.199:34417] logged in with entity id 322 at ([world]-110.5, 82.0, -126.5)
+[21:19:32] [Server thread/INFO]: amarilliin10 fell from a high place
+[21:20:24] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:20:27] [Async Chat Thread - #1/INFO]: [Not Secure] <amarilliin10> hola
+[21:21:29] [Server thread/INFO]: [Not Secure] [Server] que galsay que tal tal te va? usy se lageuo todo
+[21:21:48] [Server thread/INFO]: amarilliin10 was slain by Spider
+[21:21:52] [Server thread/INFO]: [Not Secure] [Server] te va bien? de ping y eso
+[21:21:57] [Async Chat Thread - #3/INFO]: [Not Secure] <amarilliin10> si ta bien
+[21:22:01] [Async Chat Thread - #3/INFO]: [Not Secure] <amarilliin10> pero es q solo toy yo
+[21:22:08] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> meto bots y lo testeamos?
+[21:22:12] [Server thread/INFO]: [Not Secure] [Server] dale
+[21:22:23] [Server thread/INFO]: [Not Secure] [Server] pero con cuidado
+[21:22:28] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> voy a meter 100
+[21:22:41] [User Authenticator #1/INFO]: UUID of player jugadores_0 is 86ce76ba-375c-3681-9597-620a5bca5891
+[21:22:41] [Server thread/INFO]: jugadores_0 joined the game
+[21:22:41] [Server thread/INFO]: jugadores_0[/127.194.136.199:48959] logged in with entity id 1484 at ([world]-112.5, 80.0, -128.5)
+[21:22:41] [Server thread/INFO]: jugadores_0 issued server command: /login 123456 
+[21:22:52] [User Authenticator #1/INFO]: UUID of player jugadores_0 is 86ce76ba-375c-3681-9597-620a5bca5891
+[21:22:52] [Server thread/INFO]: jugadores_0 lost connection: You logged in from another location
+[21:22:52] [Server thread/INFO]: jugadores_0 left the game
+[21:22:52] [Server thread/INFO]: jugadores_0 joined the game
+[21:22:52] [Server thread/INFO]: jugadores_0[/127.194.136.199:49439] logged in with entity id 1500 at ([world]-112.5, 80.0, -128.5)
+[21:22:52] [Server thread/INFO]: jugadores_0 issued server command: /login 123456 
+[21:22:58] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> fack
+[21:23:02] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> XD
+[21:23:16] [User Authenticator #1/INFO]: UUID of player jugadores1_0 is 307a3848-b88d-3158-93a3-8d60e8ba5766
+[21:23:16] [Server thread/INFO]: jugadores1_0 joined the game
+[21:23:16] [Server thread/INFO]: jugadores1_0[/127.194.136.199:41045] logged in with entity id 1552 at ([world]-117.5, 74.0, -135.5)
+[21:23:16] [Server thread/INFO]: jugadores1_0 issued server command: /login 123456 
+[21:23:29] [Server thread/INFO]: [Not Secure] [Server] Que XD, bueno va, el rendimiento del servidor es 16gb de ram, 4 nucleos, 32gb de almacenamiento y esta hosteado en new york, testea lo que puedas
+[21:23:46] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> no me deja meter bots ._.
+[21:23:52] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> XD
+[21:23:58] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> solo entraron 2
+[21:24:13] [Server thread/INFO]: jugadores_0 was slain by amarilliin10
+[21:24:24] [Server thread/INFO]: jugadores_0 was slain by amarilliin10
+[21:24:41] [Server thread/INFO]: jugadores1_0 was doomed to fall by amarilliin10
+[21:24:48] [Server thread/INFO]: amarilliin10 tried to swim in lava
+[21:25:46] [Server thread/INFO]: amarilliin10 tried to swim in lava
+[21:26:10] [Server thread/INFO]: amarilliin10 lost connection: Disconnected
+[21:26:10] [Server thread/INFO]: amarilliin10 left the game
+[21:26:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:26:24] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:24] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:26] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:26] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:27] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:28] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:29] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:30] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
+[21:26:30] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
+[21:26:30] [Server thread/INFO]: jugadores1_0 lost connection: Kicked for spamming
+[21:26:30] [Server thread/INFO]: jugadores1_0 left the game
+[21:26:30] [Server thread/INFO]: jugadores_0 lost connection: Kicked for spamming
+[21:26:30] [Server thread/INFO]: jugadores_0 left the game
+[21:26:33] [Server thread/INFO]: [Not Secure] [Server] q
+[21:26:36] [Server thread/INFO]: [Not Secure] [Server] hola
+[21:36:01] [Server thread/INFO]: Stopping the server
+[21:36:02] [Server thread/INFO]: Stopping server
+[21:36:02] [Server thread/INFO]: Saving players
+[21:36:02] [Server thread/INFO]: Saving worlds
+[21:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Saved 1068 block chunks, 129 entity chunks, 1 poi chunks in world 'world' in 1.34s
+[21:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1497 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 1.09s
+[21:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:36:05] [Server thread/INFO]: [ChunkHolderManager] Saved 1506 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.87s
+[21:36:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:36:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:36:05] [Server thread/INFO]: Flushing Chunk IO
+[21:36:05] [Server thread/INFO]: Closing Thread Pool
+[21:36:05] [Server thread/INFO]: Closing Server
