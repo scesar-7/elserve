@@ -1,140 +1,66 @@
-[21:17:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:17:07] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:17:09] [ServerMain/INFO]: Loaded 7 recipes
-[21:17:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:17:10] [Server thread/INFO]: Loading properties
-[21:17:10] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[21:17:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:17:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:17:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[21:17:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[21:17:12] [Server thread/INFO]: Default game type: SURVIVAL
-[21:17:12] [Server thread/INFO]: Generating keypair
-[21:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:17:13] [Server thread/INFO]: Using epoll channel type
-[21:17:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:17:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:17:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:17:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:17:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:17:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:17:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:17:13] [Server thread/INFO]: Preparing level "world"
-[21:17:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:17:28] [Server thread/INFO]: Time elapsed: 250 ms
-[21:17:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:17:28] [Server thread/INFO]: Time elapsed: 297 ms
-[21:17:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:17:28] [Server thread/INFO]: Time elapsed: 126 ms
-[21:17:28] [Server thread/INFO]: Running delayed init tasks
-[21:17:28] [Server thread/INFO]: Done (18.051s)! For help, type "help"
-[21:17:28] [Server thread/INFO]: Timings Reset
-[21:17:34] [Server thread/INFO]: [Not Secure] [Server] h
-[21:17:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:18:49] [User Authenticator #0/INFO]: UUID of player amarilliin10 is 2dbccb62-2efc-37d5-8468-37f768e8f0f8
-[21:18:49] [Server thread/INFO]: amarilliin10 joined the game
-[21:18:49] [Server thread/INFO]: amarilliin10[/127.194.136.199:34417] logged in with entity id 322 at ([world]-110.5, 82.0, -126.5)
-[21:19:32] [Server thread/INFO]: amarilliin10 fell from a high place
-[21:20:24] [Server thread/INFO]: [Not Secure] [Server] hola
-[21:20:27] [Async Chat Thread - #1/INFO]: [Not Secure] <amarilliin10> hola
-[21:21:29] [Server thread/INFO]: [Not Secure] [Server] que galsay que tal tal te va? usy se lageuo todo
-[21:21:48] [Server thread/INFO]: amarilliin10 was slain by Spider
-[21:21:52] [Server thread/INFO]: [Not Secure] [Server] te va bien? de ping y eso
-[21:21:57] [Async Chat Thread - #3/INFO]: [Not Secure] <amarilliin10> si ta bien
-[21:22:01] [Async Chat Thread - #3/INFO]: [Not Secure] <amarilliin10> pero es q solo toy yo
-[21:22:08] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> meto bots y lo testeamos?
-[21:22:12] [Server thread/INFO]: [Not Secure] [Server] dale
-[21:22:23] [Server thread/INFO]: [Not Secure] [Server] pero con cuidado
-[21:22:28] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> voy a meter 100
-[21:22:41] [User Authenticator #1/INFO]: UUID of player jugadores_0 is 86ce76ba-375c-3681-9597-620a5bca5891
-[21:22:41] [Server thread/INFO]: jugadores_0 joined the game
-[21:22:41] [Server thread/INFO]: jugadores_0[/127.194.136.199:48959] logged in with entity id 1484 at ([world]-112.5, 80.0, -128.5)
-[21:22:41] [Server thread/INFO]: jugadores_0 issued server command: /login 123456 
-[21:22:52] [User Authenticator #1/INFO]: UUID of player jugadores_0 is 86ce76ba-375c-3681-9597-620a5bca5891
-[21:22:52] [Server thread/INFO]: jugadores_0 lost connection: You logged in from another location
-[21:22:52] [Server thread/INFO]: jugadores_0 left the game
-[21:22:52] [Server thread/INFO]: jugadores_0 joined the game
-[21:22:52] [Server thread/INFO]: jugadores_0[/127.194.136.199:49439] logged in with entity id 1500 at ([world]-112.5, 80.0, -128.5)
-[21:22:52] [Server thread/INFO]: jugadores_0 issued server command: /login 123456 
-[21:22:58] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> fack
-[21:23:02] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> XD
-[21:23:16] [User Authenticator #1/INFO]: UUID of player jugadores1_0 is 307a3848-b88d-3158-93a3-8d60e8ba5766
-[21:23:16] [Server thread/INFO]: jugadores1_0 joined the game
-[21:23:16] [Server thread/INFO]: jugadores1_0[/127.194.136.199:41045] logged in with entity id 1552 at ([world]-117.5, 74.0, -135.5)
-[21:23:16] [Server thread/INFO]: jugadores1_0 issued server command: /login 123456 
-[21:23:29] [Server thread/INFO]: [Not Secure] [Server] Que XD, bueno va, el rendimiento del servidor es 16gb de ram, 4 nucleos, 32gb de almacenamiento y esta hosteado en new york, testea lo que puedas
-[21:23:46] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> no me deja meter bots ._.
-[21:23:52] [Async Chat Thread - #4/INFO]: [Not Secure] <amarilliin10> XD
-[21:23:58] [Async Chat Thread - #5/INFO]: [Not Secure] <amarilliin10> solo entraron 2
-[21:24:13] [Server thread/INFO]: jugadores_0 was slain by amarilliin10
-[21:24:24] [Server thread/INFO]: jugadores_0 was slain by amarilliin10
-[21:24:41] [Server thread/INFO]: jugadores1_0 was doomed to fall by amarilliin10
-[21:24:48] [Server thread/INFO]: amarilliin10 tried to swim in lava
-[21:25:46] [Server thread/INFO]: amarilliin10 tried to swim in lava
-[21:26:10] [Server thread/INFO]: amarilliin10 lost connection: Disconnected
-[21:26:10] [Server thread/INFO]: amarilliin10 left the game
-[21:26:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[21:26:24] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:24] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:26] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:26] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:27] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #7/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:28] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #6/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:29] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:30] [Async Chat Thread - #9/INFO]: [Not Secure] <jugadores1_0> nos tenemos q ir adeu!
-[21:26:30] [Async Chat Thread - #8/INFO]: [Not Secure] <jugadores_0> nos tenemos q ir adeu!
-[21:26:30] [Server thread/INFO]: jugadores1_0 lost connection: Kicked for spamming
-[21:26:30] [Server thread/INFO]: jugadores1_0 left the game
-[21:26:30] [Server thread/INFO]: jugadores_0 lost connection: Kicked for spamming
-[21:26:30] [Server thread/INFO]: jugadores_0 left the game
-[21:26:33] [Server thread/INFO]: [Not Secure] [Server] q
-[21:26:36] [Server thread/INFO]: [Not Secure] [Server] hola
-[21:36:01] [Server thread/INFO]: Stopping the server
-[21:36:02] [Server thread/INFO]: Stopping server
-[21:36:02] [Server thread/INFO]: Saving players
-[21:36:02] [Server thread/INFO]: Saving worlds
-[21:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:36:02] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Saved 1068 block chunks, 129 entity chunks, 1 poi chunks in world 'world' in 1.34s
-[21:36:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:36:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:36:03] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1497 block chunks, 8 entity chunks, 0 poi chunks in world 'world_nether' in 1.09s
-[21:36:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:36:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:36:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:36:05] [Server thread/INFO]: [ChunkHolderManager] Saved 1506 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.87s
-[21:36:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:36:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:36:05] [Server thread/INFO]: Flushing Chunk IO
-[21:36:05] [Server thread/INFO]: Closing Thread Pool
-[21:36:05] [Server thread/INFO]: Closing Server
+[08Dec2024 02:04:38.641] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[08Dec2024 02:04:38.659] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Dec2024 02:04:39.546] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Dec2024 02:04:39.748] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/elserve/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Dec2024 02:04:40.891] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/elserve/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 02:04:40.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/elserve/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 02:04:40.899] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/elserve/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 02:04:40.911] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/elserve/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Dec2024 02:04:42.182] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[08Dec2024 02:04:50.689] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Dec2024 02:04:50.831] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[08Dec2024 02:04:52.885] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[08Dec2024 02:05:20.738] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Dec2024 02:05:20.741] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Dec2024 02:05:27.233] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[08Dec2024 02:05:27.489] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/elserve/servidor_minecraft/config/tacz-common.toml is not correct. Correcting
+[08Dec2024 02:05:27.519] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/elserve/servidor_minecraft/config/tacz-common.toml is not correct. Correcting
+[08Dec2024 02:05:27.537] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/elserve/servidor_minecraft/config/tacz-common.toml is not correct. Correcting
+[08Dec2024 02:05:27.552] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/elserve/servidor_minecraft/config/tacz-common.toml is not correct. Correcting
+[08Dec2024 02:05:27.677] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/elserve/servidor_minecraft/config/sporeconfig.toml is not correct. Correcting
+[08Dec2024 02:05:28.062] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[08Dec2024 02:05:28.256] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[08Dec2024 02:05:28.285] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[08Dec2024 02:05:28.291] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[08Dec2024 02:05:28.307] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[08Dec2024 02:05:28.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[08Dec2024 02:05:29.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[08Dec2024 02:05:29.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[08Dec2024 02:05:30.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.26 Target: null
+[08Dec2024 02:05:30.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Dec2024 02:05:30.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[08Dec2024 02:05:30.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[08Dec2024 02:05:30.623] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[08Dec2024 02:05:47.845] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[08Dec2024 02:05:47.847] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[08Dec2024 02:05:47.847] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[08Dec2024 02:05:47.848] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[08Dec2024 02:05:47.849] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[08Dec2024 02:05:47.850] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[08Dec2024 02:05:47.850] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[08Dec2024 02:05:47.853] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[08Dec2024 02:05:47.908] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[08Dec2024 02:05:47.910] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[08Dec2024 02:05:47.912] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[08Dec2024 02:05:47.914] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[08Dec2024 02:05:54.403] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Dec2024 02:05:54.482] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/elserve/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
